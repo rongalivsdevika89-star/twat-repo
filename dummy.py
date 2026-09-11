@@ -3,7 +3,7 @@ two
 three
 four
 
-function (a,b)
+function (a,b);
 sadcsdc
 sdc[skdc
 s;dc
