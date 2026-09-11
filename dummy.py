@@ -4,6 +4,7 @@ three
 four
 
 function_hello (a,c);
+print("Hello from MAIN")
 sadcsdc
 sdc[skdc
 s;dc
