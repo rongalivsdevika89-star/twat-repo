@@ -1,2 +1,2 @@
 # twat-repo
-MY name is sekhar
+this is SEKHAR
